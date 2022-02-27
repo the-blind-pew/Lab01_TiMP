@@ -1,7 +1,7 @@
 # Lab01_TiMP
 
 1.Скачиваем библиотеку boost c помощью wget 
-$wget -P /Downloads https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
+'\n'$wget -P /Downloads https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
 
 2.Разархивируем boost в директорию ~/boost_1_69_0 
 $tar -C ~/ -x ~/Downloads/boost_1_69_0.tar.gz
